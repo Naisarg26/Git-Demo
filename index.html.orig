@@ -9,10 +9,11 @@
 	     <li>About Us!</li> 
 	     <li>Product</li>
 	     <li>Contact Us!</li>
-	     <li>Help</li>	
-	     <li>Appliances</li>
 	</ul>
+<<<<<<< HEAD
 	<h2>I love web develpoment</h2>
+=======
 	<marquee>Charusat University </marqee>
+>>>>>>> ad063a7e43aeefff82c157dd63a511b46abafd87
 </body>
 </html>
